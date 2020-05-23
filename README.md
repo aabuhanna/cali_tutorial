@@ -17,4 +17,4 @@ Platt scaling: lr_platt_recal.R and svm_platt_recal.R<br/>
 isotonic regression: lr_iso_recal.R and svm_iso_recal.R<br/>
 BBQ: matlab package from original paper
 
-# I am adding my own documentation from here on.
+## I am adding my own documentation from here on.
